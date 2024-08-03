@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="txt_first_name">Nombres</string>
+    <string name="txt_last_name">Apellidos</string>
+    <string name="txt_forgot_your_password">¿Olvido su contraseña?</string>
+    <string name="txt_create_account">Crear cuenta</string>
+    <string name="txt_log_in">Iniciar sesión</string>
+    <string name="txt_description">description</string>
+    <string name="txt_email">Correo electronico</string>
+    <string name="txt_validar_datos">Por favor ingrese todos los datos</string>
+    <string name="txt_successful_register">Registro exitoso</string>
+    <string name="txt_usuarios">Usuarios</string>
+    <string name="txt_products">Productos</string>
+    <string name="txt_logout">Cerrar sesion</string>
+</resources>
